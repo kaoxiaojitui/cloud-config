@@ -1,0 +1,3 @@
+server:
+  port: 3345
+  info: prod-level
